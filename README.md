@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=sourabhwk&theme=merko&work=work">
  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhwk" alt="sourabhwk" /></a> </p>
+
+  
  <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/sourabhwk/count.svg" />
