@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhwk&theme=merko" alt="sourabhwk" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhwk&theme=merko" alt="sourabhwk" />
+</p>
   
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sourabhwk&show_icons=true&theme=merko">
- -->
+
 <p align="center">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=sourabhwk&theme=merko&work=work">
  
